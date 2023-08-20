@@ -1,0 +1,1 @@
+export type Option = "open" | "overwrite" | "always overwrite";
